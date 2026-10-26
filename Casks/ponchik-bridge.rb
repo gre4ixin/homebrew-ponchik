@@ -7,7 +7,7 @@ cask "ponchik-bridge" do
   desc "Connects the Ponchik iPhone app to the AI agent on this Mac"
   homepage "https://ponchik-app.netlify.app/mac/"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "PonchikBridge.app"
 
