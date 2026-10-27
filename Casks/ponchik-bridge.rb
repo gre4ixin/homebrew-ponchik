@@ -1,6 +1,6 @@
 cask "ponchik-bridge" do
-  version "1.0.1"
-  sha256 "d49562d2ef0ed5922231bf89cab96c1784111ab483f534c3f02ad5848977da05"
+  version "1.0.2"
+  sha256 "d21cbaa8f832757bfa03220010509330129f3123537ee4eae6092fb13bde5006"
 
   url "https://github.com/gre4ixin/homebrew-ponchik/releases/download/v#{version}/PonchikBridge.zip"
   name "Ponchik Bridge"
